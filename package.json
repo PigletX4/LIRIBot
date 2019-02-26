@@ -1,0 +1,25 @@
+{
+  "name": "homework-9",
+  "version": "1.0.0",
+  "description": "LIRIBot app",
+  "main": "LIRIbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PigletX4/LIRIBot.git"
+  },
+  "author": "Auri H Robbins-Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PigletX4/LIRIBot/issues"
+  },
+  "homepage": "https://github.com/PigletX4/LIRIBot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
